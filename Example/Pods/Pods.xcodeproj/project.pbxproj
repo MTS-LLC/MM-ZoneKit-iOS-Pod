@@ -32,10 +32,10 @@
 /* Begin PBXFileReference section */
 		087321332C0C83830B2258D7FAA89974 /* ZoneKit-iOS-Pod.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "ZoneKit-iOS-Pod.xcconfig"; sourceTree = "<group>"; };
 		0D4C88DD221F932D2B01815F908739D2 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		0E93C942392C7AF1A259F91B1BE4ADBA /* ZoneKit-iOS-Pod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "ZoneKit-iOS-Pod.modulemap"; sourceTree = "<group>"; };
+		0E93C942392C7AF1A259F91B1BE4ADBA /* ZoneKit-iOS-Pod.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "ZoneKit-iOS-Pod.modulemap"; sourceTree = "<group>"; };
 		144BC54230299E6E9025205500744420 /* Pods-ZoneKit-iOS-Pod_Example-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZoneKit-iOS-Pod_Example-resources.sh"; sourceTree = "<group>"; };
 		14BE37769EF410EDACF05A028BA207FD /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		2BD048F0413CC217DE2AAFC678F9F460 /* Pods_ZoneKit_iOS_Pod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZoneKit_iOS_Pod_Tests.framework; path = "Pods-ZoneKit-iOS-Pod_Tests.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2BD048F0413CC217DE2AAFC678F9F460 /* Pods_ZoneKit_iOS_Pod_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZoneKit_iOS_Pod_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		2E21116EE61E2829BC7C5DC720BB7C9E /* Pods-ZoneKit-iOS-Pod_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZoneKit-iOS-Pod_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		2F7E50CFBC5E2B91568C125D717C84FC /* Pods-ZoneKit-iOS-Pod_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZoneKit-iOS-Pod_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		320257800D626B13808C1E3073555D51 /* Pods-ZoneKit-iOS-Pod_Tests-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZoneKit-iOS-Pod_Tests-resources.sh"; sourceTree = "<group>"; };
@@ -45,22 +45,22 @@
 		54405F5A6AB0BB5112E0A4BA45006BBC /* Pods-ZoneKit-iOS-Pod_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-ZoneKit-iOS-Pod_Tests-umbrella.h"; sourceTree = "<group>"; };
 		5E927F867161521CBFF916971780E9E8 /* ZoneKit-iOS-Pod-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZoneKit-iOS-Pod-prefix.pch"; sourceTree = "<group>"; };
 		6604A7D69453B4569E4E4827FB9155A9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS10.3.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
-		70883AC94D8E9BAB9056A6A2ADCA7753 /* Pods-ZoneKit-iOS-Pod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ZoneKit-iOS-Pod_Tests.modulemap"; sourceTree = "<group>"; };
+		70883AC94D8E9BAB9056A6A2ADCA7753 /* Pods-ZoneKit-iOS-Pod_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ZoneKit-iOS-Pod_Tests.modulemap"; sourceTree = "<group>"; };
 		72D8C61B99DFB1F6CDA6473E8EA00285 /* Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		79E56F16A0861D238B448C501173CD7B /* Pods-ZoneKit-iOS-Pod_Tests-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZoneKit-iOS-Pod_Tests-frameworks.sh"; sourceTree = "<group>"; };
 		885BDA8D5B53ED9D739F541E42514B40 /* Pods-ZoneKit-iOS-Pod_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-ZoneKit-iOS-Pod_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
-		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		AF77B0C24903E70044176E8AD0F3E331 /* Pods-ZoneKit-iOS-Pod_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZoneKit-iOS-Pod_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		B226F00041E9D45E58357A0A212F23B3 /* Pods-ZoneKit-iOS-Pod_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZoneKit-iOS-Pod_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		C507AF61402B5F66421A142190C09100 /* Pods-ZoneKit-iOS-Pod_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-ZoneKit-iOS-Pod_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		D0A21D01601E70F8063C1250650C1FAA /* ZoneKit-iOS-Pod-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "ZoneKit-iOS-Pod-dummy.m"; sourceTree = "<group>"; };
-		E16EA019059ADB4DE0471012C11AC51D /* Pods_ZoneKit_iOS_Pod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = Pods_ZoneKit_iOS_Pod_Example.framework; path = "Pods-ZoneKit-iOS-Pod_Example.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E16EA019059ADB4DE0471012C11AC51D /* Pods_ZoneKit_iOS_Pod_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_ZoneKit_iOS_Pod_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3FBD0C343D5D69C58C88B88915A312E /* Pods-ZoneKit-iOS-Pod_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-ZoneKit-iOS-Pod_Example-frameworks.sh"; sourceTree = "<group>"; };
-		E5D2D8326ECF3621B3D43659A7D4D54B /* Pods-ZoneKit-iOS-Pod_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; path = "Pods-ZoneKit-iOS-Pod_Example.modulemap"; sourceTree = "<group>"; };
+		E5D2D8326ECF3621B3D43659A7D4D54B /* Pods-ZoneKit-iOS-Pod_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = "sourcecode.module-map"; path = "Pods-ZoneKit-iOS-Pod_Example.modulemap"; sourceTree = "<group>"; };
 		EB51880D74E3AAF7DEC6720BDB5589F2 /* Pods-ZoneKit-iOS-Pod_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-ZoneKit-iOS-Pod_Tests-dummy.m"; sourceTree = "<group>"; };
 		ECF61E98C1168F14B4B0C09F6EFA1AA2 /* ZoneKit-iOS-Pod-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "ZoneKit-iOS-Pod-umbrella.h"; sourceTree = "<group>"; };
 		EDA92FA15B71BA9DA2E430F3828DFF78 /* Pods-ZoneKit-iOS-Pod_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZoneKit-iOS-Pod_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		EDF364C2B53F17B8AF5E1F722E56E1A9 /* ZoneKit_iOS_Pod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = ZoneKit_iOS_Pod.framework; path = "ZoneKit-iOS-Pod.framework"; sourceTree = BUILT_PRODUCTS_DIR; };
+		EDF364C2B53F17B8AF5E1F722E56E1A9 /* ZoneKit_iOS_Pod.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ZoneKit_iOS_Pod.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		F5F05D41D56FBB4E3E352EB503BE22F4 /* Pods-ZoneKit-iOS-Pod_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-ZoneKit-iOS-Pod_Example.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -107,7 +107,6 @@
 			children = (
 				D6B081D208FC6010E59653869FDAC756 /* Classes */,
 			);
-			name = "ZoneKit-iOS-Pod";
 			path = "ZoneKit-iOS-Pod";
 			sourceTree = "<group>";
 		};
@@ -210,7 +209,6 @@
 			children = (
 				46D6FF886B65912CCB426C630110327F /* ReplaceMe.m */,
 			);
-			name = Classes;
 			path = Classes;
 			sourceTree = "<group>";
 		};
@@ -320,6 +318,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
@@ -390,7 +389,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-ZoneKit-iOS-Pod_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = "10,0";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ZoneKit-iOS-Pod_Example/Pods-ZoneKit-iOS-Pod_Example.modulemap";
@@ -550,7 +549,7 @@
 				GCC_NO_COMMON_BLOCKS = YES;
 				INFOPLIST_FILE = "Target Support Files/Pods-ZoneKit-iOS-Pod_Example/Info.plist";
 				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.3;
+				IPHONEOS_DEPLOYMENT_TARGET = "10,0";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				MACH_O_TYPE = staticlib;
 				MODULEMAP_FILE = "Target Support Files/Pods-ZoneKit-iOS-Pod_Example/Pods-ZoneKit-iOS-Pod_Example.modulemap";
